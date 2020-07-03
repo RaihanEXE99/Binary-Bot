@@ -5,6 +5,7 @@ Link: https://binary-bot-v2.herokuapp.com/
 This Project Is For CS50X
 
 Full Name:Raihan Chowdhury
+
 Username:ZushiBot
 
 Project Details:
