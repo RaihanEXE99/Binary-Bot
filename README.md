@@ -8,7 +8,7 @@ Full Name:Raihan Chowdhury
 
 Username:ZushiBot
 
-Project Details:
+Project Details:(Backend Focused)
 Binary Bot is a Web Application, which is created with Django,Python,JavaScript,Html,Css,Tailwind,sqlite3 Etc
 
 This is a web application that that will judge your code ,(like uri,codeforce etc)
