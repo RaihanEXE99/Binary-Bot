@@ -2,7 +2,7 @@
 Project Name: Binary-Bot
 Link: https://binary-bot-v2.herokuapp.com/
 
-This Project Is For CS50X
+This Project Is For CS50Web
 
 Full Name:Raihan Chowdhury
 
