@@ -1,12 +1,12 @@
 # Binary-Bot
-Project Name: Binary-Bot
-Link: https://binary-bot-v2.herokuapp.com/
+## Project Name: Binary-Bot
+### Link: https://binary-bot-v2.herokuapp.com/
 
 This Project Is For CS50Web
 
 Full Name:Raihan Chowdhury
 
-Username:ZushiBot
+Username:Raihan-Chowdhury
 
 Project Details:(Backend Focused)
 Binary Bot is a Web Application, which is created with Django,Python,JavaScript,Html,Css,Tailwind,sqlite3 Etc
