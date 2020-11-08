@@ -10,11 +10,11 @@ Username:Raihan-Chowdhury
 
 ## Project Details:(Backend Focused) ⚠️ 
 Binary Bot is a Web Application, which is created with 
-🔥 Django
-🔥 Python
-🔥 JavaScript
-🔥 Tailwind
-🔥 Sqlite3 Etc
+### 🔥 Django
+### 🔥 Python
+### 🔥 JavaScript
+### 🔥 Tailwind
+### 🔥 Sqlite3 Etc
 
 This is a web application that that will judge your code ,(like uri,codeforce etc)
 
