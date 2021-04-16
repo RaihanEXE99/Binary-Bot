@@ -1,5 +1,5 @@
 # Binary-Bot
-## Project Name: Binary-Bot
+## Project Name: Binary-Bot (Online Judge)
 ### Link: https://binary-bot-v2.herokuapp.com/
 
 This Project Is For CS50Web
@@ -8,7 +8,7 @@ Full Name:Raihan Chowdhury
 
 Username:Raihan-Chowdhury
 
-## Project Details:(Backend Focused) ⚠️ 
+## Project Details:⚠️ 
 Binary Bot is a Web Application, which is created with 
 ### 🔥 Django
 ### 🔥 Python
