@@ -3,9 +3,7 @@
 
 This is a web application that that will judge your code ,(like uri,codeforce etc)
 
-You can log in, sign up , you can see other user accounts,
-
-Submit Your code , and check if its right or not.
+Try to solve questions and Submit Your code , and check if its right or not.
 
 ## Project Details:⚠️ 
 Binary Bot is a Web Application, which is created with 
