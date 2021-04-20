@@ -6,7 +6,7 @@ This Project Is For CS50Web
 
 Full Name:Raihan Chowdhury
 
-Username:Raihan-Chowdhury
+Username:RaihanEXE99
 
 ## Project Details:⚠️ 
 Binary Bot is a Web Application, which is created with 
