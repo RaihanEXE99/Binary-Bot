@@ -1,7 +1,7 @@
 # Binary-Bot (Online Judge)
 ### Link: https://binary-bot-v2.herokuapp.com/
 
-This is a web application that that will judge your code ,(like uri,codeforce etc)
+This is a web application that can  judge your code ,(like uri,codeforce etc)
 
 Try to solve questions and Submit Your code , and check if its right or not.
 
